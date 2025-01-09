@@ -9,7 +9,7 @@ This script automates the process of creating backups for a specified directory 
 Backup rotation is a process of systematically managing backups by retaining only the most recent copies and deleting older ones. This approach ensures:
 
 1. **Efficient Storage Utilization**: Prevents disk space from being consumed by redundant backups.
-2. **Quick Recovery**: Ensures access to recent backups without sifting through outdated copies.
+2. **Quick Recovery**: Ensures access to recent backups without shifting through outdated copies.
 3. **Streamlined Maintenance**: Simplifies the process of managing backup files.
 
 By limiting the number of backups retained (e.g., the last 5), backup rotation achieves a balance between redundancy and storage efficiency.
